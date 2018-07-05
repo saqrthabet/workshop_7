@@ -1,0 +1,3 @@
+{
+    "python.pythonPath": "${workspaceFolder}\\hr_venv\\Scripts\\python.exe"
+}

@@ -1,0 +1,3 @@
+ these files can be referred for instance, functions in <views.py>
+
+from hotel_system.views import *
